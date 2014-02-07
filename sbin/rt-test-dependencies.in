@@ -247,6 +247,7 @@ Time::ParseDate
 Tree::Simple 1.04
 UNIVERSAL::require
 XML::RSS 1.05
+JavaScript::Minifier::XS
 .
 
 $deps{'MAILGATE'} = [ text_to_hash( << '.') ];
